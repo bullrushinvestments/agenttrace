@@ -1,18 +1,18 @@
 /* Genesis AI - Professional Landing Page Styles with UNIQUE Design */
 :root {
-    --primary: #84cc16;
-    --primary-dark: #65a30d;
-    --secondary: #ef4444;
-    --accent: #06b6d4;
+    --primary: #059669;
+    --primary-dark: #047857;
+    --secondary: #a855f7;
+    --accent: #fb923c;
     --dark: #1f2937;
     --light: #f9fafb;
     --gray: #6b7280;
     --white: #ffffff;
-    --gradient: linear-gradient(135deg, #84cc16 0%, #65a30d 50%, #ef4444 100%);
+    --gradient: linear-gradient(145deg, #059669 0%, #047857 100%);
     --border-radius: 8px;
     --card-bg: var(--white);
     --card-border: none;
-    --card-shadow: none;
+    --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
 * {
@@ -22,14 +22,14 @@
 }
 
 body {
-    font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
     line-height: 1.6;
     color: var(--dark);
     background: var(--white);
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Raleway', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: 'Lexend', -apple-system, BlinkMacSystemFont, sans-serif;
     font-weight: 800;
     letter-spacing: -0.03em;
 }
